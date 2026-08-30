@@ -1,0 +1,69 @@
+about:
+  description: The Sphinx documentation generator
+  license: NOASSERTION
+  homepage: https://www.sphinx-doc.org/
+  head: e44a40e
+  archived: false
+  latestVersion: v9.1.0
+  collectedAt: 2026-08-30T05:19:44Z
+timeline:
+  created: 2015-01-02
+  lastCommit: 2026-08-07
+  lastRelease: 2025-12-31
+popularity:
+  star: 7995
+  watcher: 175
+  fork: 2545
+  release: 79
+  contributor: 783
+  pullRequest: 1418
+  issue: 7542
+language:
+  Python: 4879591
+  JavaScript: 1273178
+  TeX: 370102
+  Jinja: 144272
+  HTML: 33574
+  Common Lisp: 13841
+  Makefile: 5367
+  CSS: 1337
+  BitBake: 1157
+  Cython: 245
+  C: 87
+  Assembly: 81
+  NASL: 77
+  Pascal: 45
+totalLine: 6722954
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 0
+    openPR: 45
+    closedIssue: 2
+    openIssue: 12
+    commit: 2
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 10
+    openPR: 69
+    closedIssue: 17
+    openIssue: 28
+    commit: 13
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 14
+    openPR: 102
+    closedIssue: 31
+    openIssue: 54
+    commit: 18
+  last360d:
+    since: 2025-09-04
+    release: 12
+    mergedPR: 168
+    openPR: 162
+    closedIssue: 90
+    openIssue: 140
+    commit: 275
