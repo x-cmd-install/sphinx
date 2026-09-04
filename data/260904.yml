@@ -7,13 +7,13 @@ about:
   head: e44a40e
   archived: false
   latestVersion: v9.1.0
-  collectedAt: 2026-09-04T19:32:47Z
+  collectedAt: 2026-09-04T20:57:29Z
 timeline:
   created: 2015-01-02
   lastCommit: 2026-08-07
   lastRelease: 2025-12-31
 popularity:
-  star: 8001
+  star: 8002
   watcher: 175
   fork: 2553
   release: 79
@@ -93,6 +93,109 @@ total:
   openIssue: 1192
   commit: 22413
 ---
+path: /home/runner/.x-repo/github.com/sphinx-doc/sphinx
+collectedAt: 2026-09-04T20:57:36Z
+loc:
+  Python:
+    code: 120734
+    comments: 6613
+    blanks: 20574
+    files: 774
+  JavaScript:
+    code: 37383
+    comments: 833
+    blanks: 1177
+    files: 156
+  ReStructuredText:
+    code: 34259
+    comments: 0
+    blanks: 12588
+    files: 472
+  Tex:
+    code: 5940
+    comments: 2796
+    blanks: 329
+    files: 45
+  Json:
+    code: 1675
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 1022
+    comments: 7
+    blanks: 75
+    files: 39
+  Css:
+    code: 693
+    comments: 32
+    blanks: 95
+    files: 15
+  Toml:
+    code: 503
+    comments: 32
+    blanks: 35
+    files: 18
+  VB6:
+    code: 209
+    comments: 0
+    blanks: 21
+    files: 2
+  Makefile:
+    code: 168
+    comments: 18
+    blanks: 45
+    files: 5
+  Svg:
+    code: 152
+    comments: 42
+    blanks: 2
+    files: 12
+  Bitbake:
+    code: 85
+    comments: 9
+    blanks: 30
+    files: 22
+  Ini:
+    code: 84
+    comments: 2
+    blanks: 8
+    files: 1
+  Batch:
+    code: 24
+    comments: 1
+    blanks: 7
+    files: 1
+  Xml:
+    code: 19
+    comments: 0
+    blanks: 0
+    files: 2
+  Cython:
+    code: 7
+    comments: 2
+    blanks: 4
+    files: 2
+  CHeader:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2
+    blanks: 1
+    files: 1
+  Text:
+    code: 0
+    comments: 4244
+    blanks: 1063
+    files: 94
+total:
+  code: 202964
+  comments: 14633
+  blanks: 36054
+  files: 1664
 ---
 date: "2026-08-24"
 repo:
