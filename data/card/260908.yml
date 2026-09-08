@@ -5,7 +5,7 @@ about:
   head: e44a40e
   archived: false
   latestVersion: "v9.1.0"
-  collectedAt: 2026-09-08T01:45:55Z
+  collectedAt: 2026-09-08T04:26:04Z
 timeline:
   created: 2015-01-02
   lastCommit: 2026-08-07
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 8004
   watcher: 175
-  fork: 2555
+  fork: 2556
   release: 79
   contributor: 782
   pullRequest: 6828
@@ -92,7 +92,7 @@ total:
   commit: 22413
 ---
 path: /home/runner/.x-repo/github.com/sphinx-doc/sphinx
-collectedAt: 2026-09-08T01:46:13Z
+collectedAt: 2026-09-08T04:26:27Z
 loc:
   Python:
     code: 120734
