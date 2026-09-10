@@ -4,7 +4,7 @@
 
 The Sphinx documentation generator
 
-![sphinx](https://repo.x-cmd.io/sphinx.svg)
+![sphinx](https://repo.x-cmd.io/sphinx.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install sphinx
 
 - **最新版本**: `v9.1.0` (2025-12-31)
 - **最近提交**: 2026-08-07
-- **发布时间**: 2025-12-31T15:08:45Z
 
 ## 流行度
 
-- **Star**: 8,004 · **Fork**: 2,556 · **开放 issue**: 7,543 · **贡献者**: 782
+- **Star**: 8,005 · **Fork**: 2,556 · **开放 issue**: 7,543 · **贡献者**: 782
 
 ## 累计统计
 
@@ -71,4 +70,4 @@ sphinx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:10:16Z._
