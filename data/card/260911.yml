@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.0"
   latestRelease: "v9.1.0"
   latestPrerelease: "v9.1.0rc2"
-  collectedAt: 2026-09-11T04:27:05Z
+  collectedAt: 2026-09-11T20:34:00Z
 timeline:
   created: 2015-01-02
   lastCommit: 2026-08-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2025-12-31
   lastPrerelease: 2025-12-27
 popularity:
-  star: 8007
+  star: 8008
   watcher: 175
-  fork: 2556
+  fork: 2557
   release: 79
   contributor: 782
-  pullRequest: 6829
+  pullRequest: 6830
   issue: 7543
 language:
   Python: 4879591
@@ -59,7 +59,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 3
-    openPR: 73
+    openPR: 72
     closedIssue: 15
     openIssue: 27
     commit: 8
@@ -67,7 +67,7 @@ recent:
     since: 2026-03-15
     release: 0
     mergedPR: 14
-    openPR: 108
+    openPR: 107
     closedIssue: 29
     openIssue: 48
     commit: 18
@@ -75,7 +75,7 @@ recent:
     since: 2025-09-16
     release: 12
     mergedPR: 164
-    openPR: 165
+    openPR: 164
     closedIssue: 89
     openIssue: 136
     commit: 275
@@ -83,20 +83,20 @@ recent:
     since: 2024-09-21
     release: 22
     mergedPR: 615
-    openPR: 190
+    openPR: 189
     closedIssue: 261
     openIssue: 252
     commit: 1143
 total:
   release: 79
   mergedPR: 5403
-  openPR: 239
+  openPR: 238
   closedIssue: 6351
   openIssue: 1192
   commit: 22413
 ---
 path: /home/runner/.x-repo/github.com/sphinx-doc/sphinx
-collectedAt: 2026-09-11T04:27:24Z
+collectedAt: 2026-09-11T20:34:28Z
 loc:
   Python:
     code: 120734
