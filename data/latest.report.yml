@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.0"
   latestRelease: "v9.1.0"
   latestPrerelease: "v9.1.0rc2"
-  collectedAt: 2026-09-11T00:16:00Z
+  collectedAt: 2026-09-11T04:27:05Z
 timeline:
   created: 2015-01-02
   lastCommit: 2026-08-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-12-31
   lastPrerelease: 2025-12-27
 popularity:
-  star: 8005
+  star: 8007
   watcher: 175
   fork: 2556
   release: 79
@@ -96,7 +96,7 @@ total:
   commit: 22413
 ---
 path: /home/runner/.x-repo/github.com/sphinx-doc/sphinx
-collectedAt: 2026-09-11T00:16:17Z
+collectedAt: 2026-09-11T04:27:24Z
 loc:
   Python:
     code: 120734
