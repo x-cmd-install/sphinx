@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,032 · **Forks**: 2,580 · **Open issues**: 7,551 · **Contributors**: 781
+- **Stars**: 8,035 · **Forks**: 2,581 · **Open issues**: 7,551 · **Contributors**: 781
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 5404 · **Open PRs**: 263 · **Closed issues**: 6355 · **Open issues**: 1196 · **Commits**: 22414
+- **Releases**: 79 · **Merged PRs**: 5404 · **Open PRs**: 264 · **Closed issues**: 6355 · **Open issues**: 1196 · **Commits**: 22414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 34 | 1 | 11 | 1 |
-| last60d | 2026-07-29 | 0 | 1 | 81 | 6 | 21 | 4 |
-| 90d | 2026-06-29 | 0 | 3 | 95 | 15 | 31 | 6 |
-| last180d | 2026-03-31 | 0 | 15 | 128 | 26 | 49 | 19 |
-| 360d | 2025-10-02 | 12 | 160 | 186 | 87 | 134 | 248 |
-| last720d | 2024-10-07 | 22 | 568 | 214 | 256 | 253 | 1069 |
+| 30d | 2026-08-29 | 0 | 0 | 32 | 0 | 10 | 1 |
+| last60d | 2026-07-30 | 0 | 1 | 81 | 5 | 19 | 4 |
+| 90d | 2026-06-30 | 0 | 3 | 95 | 14 | 31 | 6 |
+| last180d | 2026-04-01 | 0 | 15 | 129 | 26 | 48 | 19 |
+| 360d | 2025-10-03 | 12 | 159 | 187 | 87 | 134 | 248 |
+| last720d | 2024-10-08 | 22 | 566 | 214 | 256 | 253 | 1066 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:11:56Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:23:11Z._
