@@ -26,7 +26,7 @@ Total: **202,978** lines of code across **1449** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,059 · **Forks**: 2,593 · **Open issues**: 7,554 · **Contributors**: 781
+- **Stars**: 8,060 · **Forks**: 2,597 · **Open issues**: 7,555 · **Contributors**: 781
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 5404 · **Open PRs**: 282 · **Closed issues**: 6360 · **Open issues**: 1194 · **Commits**: 22414
+- **Releases**: 79 · **Merged PRs**: 5404 · **Open PRs**: 285 · **Closed issues**: 6360 · **Open issues**: 1195 · **Commits**: 22414
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 37 | 0 | 8 | 1 |
-| last60d | 2026-08-14 | 0 | 1 | 83 | 3 | 20 | 1 |
-| 90d | 2026-07-15 | 0 | 3 | 107 | 9 | 29 | 6 |
-| last180d | 2026-04-16 | 0 | 14 | 138 | 23 | 49 | 19 |
-| 360d | 2025-10-18 | 12 | 138 | 203 | 82 | 130 | 220 |
-| last720d | 2024-10-23 | 18 | 532 | 231 | 245 | 246 | 928 |
+| 30d | 2026-09-14 | 0 | 0 | 39 | 0 | 9 | 1 |
+| last60d | 2026-08-15 | 0 | 1 | 85 | 3 | 21 | 1 |
+| 90d | 2026-07-16 | 0 | 3 | 109 | 9 | 30 | 6 |
+| last180d | 2026-04-17 | 0 | 14 | 141 | 22 | 50 | 19 |
+| 360d | 2025-10-19 | 12 | 132 | 206 | 81 | 131 | 220 |
+| last720d | 2024-10-24 | 18 | 530 | 234 | 244 | 246 | 928 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:41:47Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T04:43:34Z._
