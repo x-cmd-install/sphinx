@@ -14,13 +14,13 @@ x install sphinx
 
 ## Code insight
 
-Total: **202,978** lines of code across **1449** files in the top 5 languages.
+Total: **203,114** lines of code across **1450** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 120,753 | 6,613 | 20,579 | 774 |
+| Python | 120,882 | 6,627 | 20,599 | 775 |
 | JavaScript | 37,383 | 833 | 1,177 | 156 |
-| ReStructuredText | 34,259 | 0 | 12,588 | 472 |
+| ReStructuredText | 34,261 | 0 | 12,587 | 472 |
 | Tex | 5,940 | 2,796 | 329 | 45 |
 | Json | 1,675 | 0 | 0 | 2 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v9.1.0` (2025-12-31)
-- **Last commit**: 2026-09-18
+- **Latest**: `v9.1.1` (2026-10-20)
+- **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 8,065 · **Forks**: 2,604 · **Open issues**: 7,560 · **Contributors**: 781
+- **Stars**: 8,068 · **Forks**: 2,607 · **Open issues**: 7,561 · **Contributors**: 781
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 5404 · **Open PRs**: 285 · **Closed issues**: 6362 · **Open issues**: 1198 · **Commits**: 22414
+- **Releases**: 80 · **Merged PRs**: 5407 · **Open PRs**: 285 · **Closed issues**: 6364 · **Open issues**: 1197 · **Commits**: 22422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 26 | 1 | 8 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 75 | 2 | 22 | 1 |
-| 90d | 2026-07-21 | 0 | 1 | 106 | 7 | 30 | 4 |
-| last180d | 2026-04-22 | 0 | 14 | 138 | 23 | 53 | 19 |
-| 360d | 2025-10-24 | 12 | 126 | 205 | 82 | 134 | 217 |
-| last720d | 2024-10-29 | 18 | 527 | 233 | 244 | 244 | 904 |
+| 30d | 2026-09-20 | 1 | 3 | 26 | 3 | 7 | 14 |
+| last60d | 2026-08-21 | 1 | 3 | 72 | 4 | 21 | 15 |
+| 90d | 2026-07-22 | 1 | 4 | 106 | 9 | 29 | 18 |
+| last180d | 2026-04-23 | 1 | 17 | 138 | 24 | 52 | 33 |
+| 360d | 2025-10-25 | 13 | 129 | 204 | 84 | 133 | 231 |
+| last720d | 2024-10-30 | 19 | 530 | 233 | 244 | 240 | 912 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:28:04Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:38:27Z._
