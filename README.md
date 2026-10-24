@@ -14,13 +14,13 @@ x install sphinx
 
 ## Code insight
 
-Total: **203,399** lines of code across **1450** files in the top 5 languages.
+Total: **203,546** lines of code across **1450** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 120,939 | 6,618 | 20,583 | 775 |
+| Python | 121,022 | 6,618 | 20,583 | 775 |
 | JavaScript | 37,383 | 833 | 1,177 | 156 |
-| ReStructuredText | 34,457 | 0 | 12,695 | 472 |
+| ReStructuredText | 34,498 | 0 | 12,711 | 472 |
 | Tex | 5,940 | 2,796 | 329 | 45 |
 | Json | 1,707 | 0 | 0 | 2 |
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,074 · **Forks**: 2,609 · **Open issues**: 7,562 · **Contributors**: 784
+- **Stars**: 8,076 · **Forks**: 2,610 · **Open issues**: 7,562 · **Contributors**: 791
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 5428 · **Open PRs**: 247 · **Closed issues**: 6372 · **Open issues**: 1190 · **Commits**: 22446
+- **Releases**: 81 · **Merged PRs**: 5442 · **Open PRs**: 235 · **Closed issues**: 6379 · **Open issues**: 1183 · **Commits**: 22460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 12 | 24 | 3 | 8 | 41 |
-| last60d | 2026-08-24 | 2 | 15 | 58 | 4 | 22 | 42 |
-| 90d | 2026-07-25 | 2 | 19 | 91 | 9 | 29 | 45 |
-| last180d | 2026-04-26 | 2 | 33 | 118 | 27 | 50 | 60 |
-| 360d | 2025-10-28 | 14 | 146 | 167 | 87 | 128 | 258 |
-| last720d | 2024-11-02 | 20 | 549 | 196 | 247 | 236 | 936 |
+| 30d | 2026-09-24 | 2 | 14 | 24 | 4 | 7 | 56 |
+| last60d | 2026-08-25 | 2 | 15 | 53 | 6 | 19 | 57 |
+| 90d | 2026-07-26 | 2 | 27 | 85 | 11 | 27 | 60 |
+| last180d | 2026-04-27 | 2 | 43 | 109 | 29 | 48 | 75 |
+| 360d | 2025-10-29 | 14 | 156 | 155 | 89 | 123 | 273 |
+| last720d | 2024-11-03 | 20 | 563 | 184 | 250 | 232 | 944 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:35:28Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:25:16Z._
