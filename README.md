@@ -26,13 +26,13 @@ Total: **203,546** lines of code across **1450** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,082 · **Forks**: 2,614 · **Open issues**: 7,565 · **Contributors**: 791
+- **Stars**: 8,084 · **Forks**: 2,614 · **Open issues**: 7,568 · **Contributors**: 791
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 5442 · **Open PRs**: 244 · **Closed issues**: 6379 · **Open issues**: 1186 · **Commits**: 22460
+- **Releases**: 81 · **Merged PRs**: 5442 · **Open PRs**: 245 · **Closed issues**: 6379 · **Open issues**: 1189 · **Commits**: 22460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 14 | 33 | 4 | 10 | 56 |
-| last60d | 2026-08-28 | 2 | 15 | 61 | 6 | 20 | 57 |
-| 90d | 2026-07-29 | 2 | 26 | 94 | 11 | 30 | 60 |
-| last180d | 2026-04-30 | 2 | 42 | 117 | 29 | 51 | 75 |
-| 360d | 2025-11-01 | 14 | 156 | 164 | 89 | 124 | 256 |
-| last720d | 2024-11-06 | 20 | 560 | 193 | 246 | 233 | 929 |
+| 30d | 2026-09-28 | 2 | 14 | 36 | 4 | 13 | 56 |
+| last60d | 2026-08-29 | 2 | 15 | 60 | 5 | 22 | 57 |
+| 90d | 2026-07-30 | 2 | 25 | 95 | 10 | 31 | 60 |
+| last180d | 2026-05-01 | 2 | 42 | 118 | 29 | 54 | 75 |
+| 360d | 2025-11-02 | 14 | 152 | 164 | 89 | 127 | 256 |
+| last720d | 2024-11-07 | 20 | 559 | 194 | 246 | 236 | 929 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:51:39Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:26:10Z._

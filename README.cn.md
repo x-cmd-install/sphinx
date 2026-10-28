@@ -26,13 +26,13 @@ x install sphinx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.3 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install sphinx
 
 ## 流行度
 
-- **Star**: 8,082 · **Fork**: 2,614 · **开放 issue**: 7,565 · **贡献者**: 791
+- **Star**: 8,084 · **Fork**: 2,614 · **开放 issue**: 7,568 · **贡献者**: 791
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 5442 · **开放 PR**: 244 · **已关闭 issue**: 6379 · **开放 issue**: 1186 · **提交数**: 22460
+- **发布数**: 81 · **已合并 PR**: 5442 · **开放 PR**: 245 · **已关闭 issue**: 6379 · **开放 issue**: 1189 · **提交数**: 22460
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 14 | 33 | 4 | 10 | 56 |
-| last60d | 2026-08-28 | 2 | 15 | 61 | 6 | 20 | 57 |
-| 90d | 2026-07-29 | 2 | 26 | 94 | 11 | 30 | 60 |
-| last180d | 2026-04-30 | 2 | 42 | 117 | 29 | 51 | 75 |
-| 360d | 2025-11-01 | 14 | 156 | 164 | 89 | 124 | 256 |
-| last720d | 2024-11-06 | 20 | 560 | 193 | 246 | 233 | 929 |
+| 30d | 2026-09-28 | 2 | 14 | 36 | 4 | 13 | 56 |
+| last60d | 2026-08-29 | 2 | 15 | 60 | 5 | 22 | 57 |
+| 90d | 2026-07-30 | 2 | 25 | 95 | 10 | 31 | 60 |
+| last180d | 2026-05-01 | 2 | 42 | 118 | 29 | 54 | 75 |
+| 360d | 2025-11-02 | 14 | 152 | 164 | 89 | 127 | 256 |
+| last720d | 2024-11-07 | 20 | 559 | 194 | 246 | 236 | 929 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ sphinx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:51:40Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:26:11Z._
