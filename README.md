@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 5443 · **Open PRs**: 248 · **Closed issues**: 6379 · **Open issues**: 1190 · **Commits**: 22461
+- **Releases**: 81 · **Merged PRs**: 5443 · **Open PRs**: 249 · **Closed issues**: 6380 · **Open issues**: 1189 · **Commits**: 22461
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 15 | 41 | 4 | 13 | 57 |
-| last60d | 2026-08-31 | 2 | 16 | 62 | 5 | 22 | 58 |
-| 90d | 2026-08-01 | 2 | 25 | 98 | 9 | 31 | 61 |
-| last180d | 2026-05-03 | 2 | 43 | 121 | 29 | 55 | 76 |
-| 360d | 2025-11-04 | 14 | 140 | 168 | 86 | 125 | 257 |
-| last720d | 2024-11-09 | 20 | 556 | 198 | 246 | 237 | 925 |
+| 30d | 2026-10-01 | 2 | 14 | 41 | 4 | 13 | 57 |
+| last60d | 2026-09-01 | 2 | 16 | 62 | 5 | 21 | 58 |
+| 90d | 2026-08-02 | 2 | 25 | 98 | 8 | 31 | 61 |
+| last180d | 2026-05-04 | 2 | 43 | 122 | 29 | 55 | 76 |
+| 360d | 2025-11-05 | 14 | 139 | 168 | 86 | 125 | 257 |
+| last720d | 2024-11-10 | 20 | 555 | 199 | 246 | 236 | 925 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sphinx lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:37:45Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:22:04Z._
