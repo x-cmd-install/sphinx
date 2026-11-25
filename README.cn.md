@@ -32,7 +32,7 @@ x install sphinx
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install sphinx
 
 ## 流行度
 
-- **Star**: 8,104 · **Fork**: 2,641 · **开放 issue**: 7,584 · **贡献者**: 791
+- **Star**: 8,102 · **Fork**: 2,644 · **开放 issue**: 7,584 · **贡献者**: 791
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 5443 · **开放 PR**: 288 · **已关闭 issue**: 6535 · **开放 issue**: 1049 · **提交数**: 22461
+- **发布数**: 81 · **已合并 PR**: 5443 · **开放 PR**: 293 · **已关闭 issue**: 6535 · **开放 issue**: 1049 · **提交数**: 22461
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 55 | 0 | 20 | 1 |
-| last60d | 2026-09-25 | 2 | 15 | 83 | 4 | 29 | 57 |
-| 90d | 2026-08-26 | 2 | 16 | 108 | 6 | 40 | 58 |
-| last180d | 2026-05-28 | 2 | 41 | 156 | 27 | 63 | 76 |
-| 360d | 2025-11-29 | 13 | 97 | 203 | 75 | 127 | 132 |
-| last720d | 2024-12-04 | 20 | 535 | 239 | 251 | 235 | 875 |
+| 30d | 2026-10-26 | 0 | 1 | 56 | 0 | 19 | 1 |
+| last60d | 2026-09-26 | 2 | 15 | 87 | 4 | 29 | 57 |
+| 90d | 2026-08-27 | 2 | 16 | 113 | 6 | 40 | 58 |
+| last180d | 2026-05-29 | 2 | 41 | 160 | 27 | 61 | 76 |
+| 360d | 2025-11-30 | 12 | 90 | 208 | 74 | 126 | 132 |
+| last720d | 2024-12-05 | 20 | 535 | 244 | 250 | 235 | 874 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ sphinx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:43:53Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:16:27Z._
